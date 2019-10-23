@@ -14,7 +14,7 @@ int main()
 	cin >> b;
 	c = a + b;
 	cout << c << endl;
-
+	cout << "Завершено" << endl;
 
 	cout << "Пробный" << endl;
 	system("pause");
